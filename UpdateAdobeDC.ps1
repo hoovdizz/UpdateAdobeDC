@@ -5,7 +5,7 @@
 
 
 #Variables to your software Share
-$SCCMSource = 'c:\Software\Adobe Acrobat Reader DC'
+$SCCMSource = '\\SCCM\Software\Adobe\Adobe Acrobat Reader DC'
 
 #Variables-Mail
 $MailServer = "MAIL"
